@@ -5,16 +5,16 @@
 
 ---
 
-# 🧭 Identificando suas Habilidades que Podem ser Remuneradas
+# 🧭 Identificando minhas Habilidades que Podem ser Remuneradas
 
 Este projeto ajuda a **mapear suas habilidades pessoais** e cruzá-las com as **necessidades do mercado**, mostrando caminhos de monetização possíveis.  
 A proposta é usar **inteligência artificial** e ferramentas digitais para transformar talentos em oportunidades reais de trabalho ou renda.
 
 ---
 
-## 📊 Etapas do Projeto / Project Steps
+## 📊 Etapas do Projeto 
 
-### 🔹 Etapa 1: Inventário de Habilidades / Step 1: Skills Inventory
+### 🔹 Etapa 1: Inventário de Habilidades 
 Liste tudo o que você sabe fazer.  
 Perguntas que ajudam:
 - O que as pessoas costumam elogiar em você?
@@ -27,7 +27,7 @@ Perguntas que ajudam:
 
 ---
 
-### 🔹 Etapa 2: Cruzamento com Necessidades do Mercado / Step 2: Crossing with Market Needs
+### 🔹 Etapa 2: Cruzamento com Necessidades do Mercado 
 Analise cada habilidade e pergunte:
 - Existe demanda por isso?
 - Alguém pagaria por isso?
@@ -38,7 +38,7 @@ Analise cada habilidade e pergunte:
 
 ---
 
-### 🔹 Etapa 3: Caminhos de Monetização / Step 3: Monetization Paths
+### 🔹 Etapa 3: Caminhos de Monetização 
 Checklist:
 1. Oferecer serviços em plataformas (Workana, Fiverr, 99Freelas, GetNinjas)  
 2. Criar conteúdo gratuito para atrair clientes (Instagram, TikTok, YouTube)  
@@ -89,7 +89,7 @@ Checklist:
 
 ---
 
-## 🔚 Conclusão / Conclusion
+## 🔚 Conclusão 
 
 Este projeto demonstra como qualquer pessoa pode transformar suas habilidades em oportunidades reais de renda.  
 Ao seguir as três etapas — inventário de habilidades, cruzamento com necessidades do mercado e caminhos de monetização — é possível criar um mapa claro para desenvolver um portfólio, oferecer serviços e explorar novas formas de trabalho.  
