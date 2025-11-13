@@ -2,7 +2,7 @@
 
 # 🧭 Identificando suas Habilidades que Podem ser Remuneradas
 
-![Capa do Projeto](assets/capa-projeto.png)
+![Capa do Projeto](assets/Remuneradas.png)
 
 Este projeto ajuda a **mapear suas habilidades pessoais** e cruzá-las com as **necessidades do mercado**, mostrando caminhos de monetização possíveis.  
 A proposta é usar **inteligência artificial** e ferramentas digitais para transformar talentos em oportunidades reais de trabalho ou renda.
