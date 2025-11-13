@@ -30,6 +30,7 @@ Perguntas que ajudam:
 
 💡 **IA pode ajudar:** usar Copilot ou outras IAs para sugerir habilidades com base em currículo, LinkedIn ou interesses.
 
+
 ---
 
 ### Etapa 2: Cruzamento com Necessidades do Mercado
