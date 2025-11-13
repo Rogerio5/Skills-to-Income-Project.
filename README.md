@@ -1,8 +1,6 @@
 
 # Skills-to-Income-Project
 
----
-
 # 🧭 Identificando minhas Habilidades que Podem ser Remuneradas
 
 Este projeto ajuda a **mapear suas habilidades pessoais** e cruzá-las com as **necessidades do mercado**, mostrando caminhos de monetização possíveis.  
